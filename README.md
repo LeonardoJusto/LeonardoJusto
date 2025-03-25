@@ -74,7 +74,7 @@ ___
     <img
     aling="left"
     width="30px"
-    src="https://raichu-uploads.s3.amazonaws.com/logo_udemy_quabPA.png"
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcbC9JNrtvj6sdkH2pDn8Xg2u5uy_TTZ8Mzg&s"
     />
     <strong>Udemy</strong>
     <br>
