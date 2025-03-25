@@ -71,7 +71,6 @@ ___
     src="https://www.famportal.com.br/fam/fam/dev/externo/eventos/certificado.php?id_sub=2142&cpf=20240219"
     />
 </p>
-<br>
 <p>
     <img
     aling="left"
