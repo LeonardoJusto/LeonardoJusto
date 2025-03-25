@@ -5,7 +5,7 @@
 Meu nome é Leonardo Justo Dalbem, tenho 19 anos e sou de Americana - SP. Completei o ensino médio na ETEC Polivalente de Americana, e atualmente estou no 3° semestre de Ciência da Computação na FAM - Faculdade de Americana. Sempre fui um entusiasta de tecnologia e estou sempre disposto a aprender mais sobre!
 ___
 
-## ⌨ `Linguagens e Tecnologias`
+### ⌨ `Linguagens e Tecnologias`
 
 <img
     aling="left"
@@ -50,7 +50,7 @@ ___
 
 ___
 
-#### 📚 `Graduação e Cursos`
+### 📚 `Graduação e Cursos`
 <p>
     <img
     aling="left"
