@@ -67,7 +67,7 @@ ___
     <br>
     <img
     aling="left"
-    width="60px"
+    width="30px"
     src="https://www.famportal.com.br/fam/fam/dev/externo/eventos/certificado.php?id_sub=2142&cpf=20240219"
     />
 </p>
