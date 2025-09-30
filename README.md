@@ -60,7 +60,7 @@ ___
     <strong>Fam - Faculdade de Americana</strong>
     <br>
     <br>
-    Ciência da Computação: 3 semestre
+    Ciência da Computação: 4 semestre
     <br>
     <br>
     Criando app com Kodular
