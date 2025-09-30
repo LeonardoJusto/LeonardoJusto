@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&pause=500&color=2BA234&width=435&lines=Desenvolvedor+Junior)](https://git.io/typing-svg)
 
-Meu nome é Leonardo Justo Dalbem, tenho 19 anos e sou de Americana - SP. Completei o ensino médio na ETEC Polivalente de Americana, e atualmente estou no 3° semestre de Ciência da Computação na FAM - Faculdade de Americana. Sempre fui um entusiasta de tecnologia e estou sempre disposto a aprender mais sobre!
+Meu nome é Leonardo Justo Dalbem, tenho 20 anos e sou de Americana - SP. Completei o ensino médio na ETEC Polivalente de Americana, e atualmente estou no 4° semestre de Ciência da Computação na FAM - Faculdade de Americana. Sempre fui um entusiasta de tecnologia e estou sempre disposto a aprender mais sobre!
 ___
 
 ### ⌨ `Linguagens e Tecnologias`
