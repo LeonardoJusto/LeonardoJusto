@@ -19,7 +19,7 @@
 
 Atuo na convergência entre **processos operacionais/industriais** e **engenharia de dados**. Meu trabalho consiste em traduzir regras tributárias, comerciais e financeiras complexas em sistemas de ERP estruturados, bancos de dados consistentes e rotinas automatizadas com inteligência artificial.
 
-- 💼 **Atuação Atual:** Consultor de Implantação de ERP & Especialista Técnico de Dados na **industrialMAIS**.
+- 💼 **Atuação Atual:** Implantador de Software & Especialista Técnico de Dados na **industrialMAIS**.
 - 🎓 **Formação:** 6º Semestre de **Bacharelado em Ciência da Computação** na FAM.
 - 🎯 **Foco Principal:** Migrações críticas de dados, conciliação e saneamento em **PostgreSQL & SQL Server**, homologações bancárias (**CNAB**), integrações de marketplaces (**Olist/AnyMarket**) e automação com **IA**.
 - 📍 **Localização:** Americana - SP / São Paulo (Atuação Presencial & Remota).
