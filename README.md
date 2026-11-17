@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/leonardojustodalbem/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://leonardo-portfolio-rk94ax8rm-leonardo-justo1.vercel.app/"><img src="https://img.shields.io/badge/Portfólio_Web-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:leojusto@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/></a>
+  <a href="mailto:leonardojustodalbem@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 </div>
@@ -21,7 +21,7 @@ Atuo na convergência entre **processos operacionais/industriais** e **engenhari
 
 - 💼 **Atuação Atual:** Implantador de Software & Especialista Técnico de Dados na **industrialMAIS**.
 - 🎓 **Formação:** 6º Semestre de **Bacharelado em Ciência da Computação** na FAM.
-- 🎯 **Foco Principal:** Migrações críticas de dados, conciliação e saneamento em **PostgreSQL & SQL Server**, homologações bancárias (**CNAB**), integrações de marketplaces (**Olist/AnyMarket**) e automação com **IA**.
+- 🎯 **Foco Principal:** Migrações críticas de dados, conciliação e saneamento em **PostgreSQL & SQL Server**, homologações bancárias, integrações de marketplaces e automação com **IA**.
 - 📍 **Localização:** Americana - SP / São Paulo (Atuação Presencial & Remota).
 
 ---
@@ -39,8 +39,6 @@ Atuo na convergência entre **processos operacionais/industriais** e **engenhari
 ![ERP](https://img.shields.io/badge/Implanta%C3%A7%C3%A3o%20ERP-2563EB?style=for-the-badge&logoColor=white)
 ![CNAB](https://img.shields.io/badge/Homologa%C3%A7%C3%A3o%20CNAB%20240%2F400-1E3A8A?style=for-the-badge&logoColor=white)
 ![Regras Fiscais](https://img.shields.io/badge/Parametriza%C3%A7%C3%A3o%20Fiscal%20%26%20CFOP-F59E0B?style=for-the-badge&logoColor=white)
-![Olist](https://img.shields.io/badge/Hub%20Olist-EC4899?style=for-the-badge&logoColor=white)
-![AnyMarket](https://img.shields.io/badge/AnyMarket-8B5CF6?style=for-the-badge&logoColor=white)
 
 #### 💻 Desenvolvimento, APIs & IA
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
